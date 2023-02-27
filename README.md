@@ -2,7 +2,7 @@
 # Lua scripting / [GameSense](https://gamesense.vip/forums/)
 * My [Lua](https://www.lua.org/) scripts for [gamesense](https://gamesense.vip/) which I used to travel to [Venus](https://href.li/?https://solarsystem.nasa.gov/planets/venus/overview/) and take over the industry of [HvH](https://www.urbandictionary.com/define.php?term=HvH) in the legendary video game ruined by skids, [Counter-Strike: Global Offensive](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/).
 * Join the community [discord server](https://discord.gg/txrsskxq6n) for Lua scripting Q&A, discussion and helping!
-* Join the [**GS** Support](https://gamesense.help) for any issues / help.
+* Join the [**Official GameSense** Support](https://gamesense.help) for any issues / help.
 
 ---
 
